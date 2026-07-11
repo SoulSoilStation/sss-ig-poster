@@ -35,13 +35,15 @@ REPO_ROOT = Path(__file__).parent
 LOG_FILE = REPO_ROOT / "posted_log.json"
 IMAGES_DIR = REPO_ROOT / "images"
 GRAPH_API_VERSION = "v23.0"
-GRAPH_API_BASE = f"https://graph.facebook.com/{GRAPH_API_VERSION}"
+# Instagram API with Instagram Login (2024年以降の新方式) は graph.instagram.com を使う。
+# 旧方式の graph.facebook.com とは別物なので混在させない。
+GRAPH_API_BASE = f"https://graph.instagram.com/{GRAPH_API_VERSION}"
 
-# Instagram Graph API 認証情報 (.env / GitHub Secrets から読み込み)
-IG_APP_ID = os.environ["IG_APP_ID"]
-IG_APP_SECRET = os.environ["IG_APP_SECRET"]
+# Instagram API 認証情報 (.env / GitHub Secrets から読み込み)
+# アプリのダッシュボード「Instagram」→「APIセットアップ（Instagramログイン）」で
+# 発行される長期アクセストークンとユーザーIDを使う（App ID/App Secretは不要）
 IG_ACCESS_TOKEN = os.environ["IG_ACCESS_TOKEN"]
-IG_BUSINESS_ACCOUNT_ID = os.environ["IG_BUSINESS_ACCOUNT_ID"]
+IG_USER_ID = os.environ["IG_USER_ID"]
 
 # 画像を公開URLとして参照するためのGitHubリポジトリ情報
 GITHUB_REPOSITORY = os.environ.get("GITHUB_REPOSITORY", "")  # 例: SoulSoilStation/sss-ig-poster
@@ -204,12 +206,15 @@ def raw_url_for(sha: str, relative_path: str) -> str:
 
 
 def refresh_access_token() -> str:
-    """長期アクセストークンの有効期限を60日に延長する"""
-    resp = requests.get(f"{GRAPH_API_BASE}/oauth/access_token", params={
-        "grant_type": "fb_exchange_token",
-        "client_id": IG_APP_ID,
-        "client_secret": IG_APP_SECRET,
-        "fb_exchange_token": IG_ACCESS_TOKEN,
+    """
+    長期アクセストークンの有効期限を60日に延長する。
+    Instagram API with Instagram Login の ig_refresh_token は、
+    発行/前回延長から24時間以上経過したトークンでないと延長できない
+    （その場合は例外を投げるので、呼び出し側で現行トークンにフォールバックする）
+    """
+    resp = requests.get("https://graph.instagram.com/refresh_access_token", params={
+        "grant_type": "ig_refresh_token",
+        "access_token": IG_ACCESS_TOKEN,
     }, timeout=15)
     resp.raise_for_status()
     return resp.json()["access_token"]
@@ -259,7 +264,7 @@ def wait_until_container_ready(container_id: str, token: str, timeout_sec: int =
 
 
 def post_to_instagram(image_url: str, caption: str, token: str) -> str:
-    create_resp = requests.post(f"{GRAPH_API_BASE}/{IG_BUSINESS_ACCOUNT_ID}/media", data={
+    create_resp = requests.post(f"{GRAPH_API_BASE}/{IG_USER_ID}/media", data={
         "image_url": image_url,
         "caption": caption,
         "access_token": token,
@@ -269,7 +274,7 @@ def post_to_instagram(image_url: str, caption: str, token: str) -> str:
 
     wait_until_container_ready(container_id, token)
 
-    publish_resp = requests.post(f"{GRAPH_API_BASE}/{IG_BUSINESS_ACCOUNT_ID}/media_publish", data={
+    publish_resp = requests.post(f"{GRAPH_API_BASE}/{IG_USER_ID}/media_publish", data={
         "creation_id": container_id,
         "access_token": token,
     }, timeout=30)
