@@ -269,6 +269,8 @@ def post_to_instagram(image_url: str, caption: str, token: str) -> str:
         "caption": caption,
         "access_token": token,
     }, timeout=30)
+    if not create_resp.ok:
+        print(f"[ERROR] メディアコンテナ作成に失敗: {create_resp.status_code} {create_resp.text}")
     create_resp.raise_for_status()
     container_id = create_resp.json()["id"]
 
@@ -278,6 +280,8 @@ def post_to_instagram(image_url: str, caption: str, token: str) -> str:
         "creation_id": container_id,
         "access_token": token,
     }, timeout=30)
+    if not publish_resp.ok:
+        print(f"[ERROR] メディア公開に失敗: {publish_resp.status_code} {publish_resp.text}")
     publish_resp.raise_for_status()
     return publish_resp.json()["id"]
 
