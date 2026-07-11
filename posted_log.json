@@ -1,4 +1,14 @@
 {
-  "posted": [],
-  "history": []
+  "posted": [
+    "https://soulsoilstation.co.jp/ec-waveform/"
+  ],
+  "history": [
+    {
+      "timestamp": "2026-07-11T09:27:08.331165",
+      "media_id": "18152848960436625",
+      "url": "https://soulsoilstation.co.jp/ec-waveform/",
+      "title": "「薄く長く」施肥は正しい？根域ECの波形で考える塊根・多肉の施肥術",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d315dc2676e5333d7161e254b31715e9a4bdb4dc/images/ec-waveform.jpg"
+    }
+  ]
 }
