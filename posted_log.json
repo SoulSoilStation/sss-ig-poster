@@ -1,7 +1,8 @@
 {
   "posted": [
     "https://soulsoilstation.co.jp/ec-waveform/",
-    "https://soulsoilstation.co.jp/light-acclimation/"
+    "https://soulsoilstation.co.jp/light-acclimation/",
+    "https://soulsoilstation.co.jp/moisture-reading/"
   ],
   "history": [
     {
@@ -17,6 +18,13 @@
       "url": "https://soulsoilstation.co.jp/light-acclimation/",
       "title": "光順化の完全ガイド｜塊根・多肉植物を1週間で屋外直射へ慣らすプロトコル",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/1b6aec15ed86ce5bb12a34104c8e0630bb2c45a4/images/light-acclimation.jpg"
+    },
+    {
+      "timestamp": "2026-07-13T10:42:46.649463",
+      "media_id": "18448005139190487",
+      "url": "https://soulsoilstation.co.jp/moisture-reading/",
+      "title": "鉢内水分センサーの読み方｜含水率で乾きを正しく判断する",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/cd029bbd8e9406aef09edea44a72da2f55d4a907/images/moisture-reading.jpg"
     }
   ]
 }
