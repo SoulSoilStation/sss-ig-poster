@@ -2,7 +2,8 @@
   "posted": [
     "https://soulsoilstation.co.jp/ec-waveform/",
     "https://soulsoilstation.co.jp/light-acclimation/",
-    "https://soulsoilstation.co.jp/moisture-reading/"
+    "https://soulsoilstation.co.jp/moisture-reading/",
+    "https://soulsoilstation.co.jp/slow-infiltration/"
   ],
   "history": [
     {
@@ -25,6 +26,13 @@
       "url": "https://soulsoilstation.co.jp/moisture-reading/",
       "title": "鉢内水分センサーの読み方｜含水率で乾きを正しく判断する",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/cd029bbd8e9406aef09edea44a72da2f55d4a907/images/moisture-reading.jpg"
+    },
+    {
+      "timestamp": "2026-07-14T06:38:11.246785",
+      "media_id": "17922765465164058",
+      "url": "https://soulsoilstation.co.jp/slow-infiltration/",
+      "title": "水やりが浸透しない原因と対策｜塊根植物・多肉植物",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/5401f6c6e0179c343f8829cdc514de233782ccf7/images/slow-infiltration.jpg"
     }
   ]
 }
