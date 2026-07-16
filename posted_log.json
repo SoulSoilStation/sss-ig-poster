@@ -4,7 +4,8 @@
     "https://soulsoilstation.co.jp/light-acclimation/",
     "https://soulsoilstation.co.jp/moisture-reading/",
     "https://soulsoilstation.co.jp/slow-infiltration/",
-    "https://soulsoilstation.co.jp/agave-compact/"
+    "https://soulsoilstation.co.jp/agave-compact/",
+    "https://soulsoilstation.co.jp/wet-duration/"
   ],
   "history": [
     {
@@ -41,6 +42,13 @@
       "url": "https://soulsoilstation.co.jp/agave-compact/",
       "title": "アガベをコンパクトに育てる科学的メソッド：徒長を防ぐ光と根の管理",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/ddbf1a908d95dcc7dae6b31483d214d9703cf543/images/agave-compact.jpg"
+    },
+    {
+      "timestamp": "2026-07-16T07:33:14.670965",
+      "media_id": "18325448383274601",
+      "url": "https://soulsoilstation.co.jp/wet-duration/",
+      "title": "根腐れは“濡れた時間”で決まる｜潅水回数より大切な時間設計の科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/90bd69f3fc612f517d0609954c45267020a806b3/images/wet-duration.jpg"
     }
   ]
 }
