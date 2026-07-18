@@ -6,7 +6,8 @@
     "https://soulsoilstation.co.jp/slow-infiltration/",
     "https://soulsoilstation.co.jp/agave-compact/",
     "https://soulsoilstation.co.jp/wet-duration/",
-    "https://soulsoilstation.co.jp/seedling-tray/"
+    "https://soulsoilstation.co.jp/seedling-tray/",
+    "https://soulsoilstation.co.jp/seedling-potsize/"
   ],
   "history": [
     {
@@ -57,6 +58,13 @@
       "url": "https://soulsoilstation.co.jp/seedling-tray/",
       "title": "育苗トレーはセル型とプール型どっちが育つ？根の活動空間で考える実生の選び方",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/415c84079e7e560d849aa69bc95c8b4a8e90ccc1/images/seedling-tray.jpg"
+    },
+    {
+      "timestamp": "2026-07-18T06:30:20.815526",
+      "media_id": "18141337141557853",
+      "url": "https://soulsoilstation.co.jp/seedling-potsize/",
+      "title": "実生株は大きな鉢ほど育つ？鉢サイズと深さの科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/cfa3396cecc322a9fefae2b28652b0cfd8398bba/images/seedling-potsize.jpg"
     }
   ]
 }
