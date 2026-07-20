@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/wet-duration/",
     "https://soulsoilstation.co.jp/seedling-tray/",
     "https://soulsoilstation.co.jp/seedling-potsize/",
-    "https://soulsoilstation.co.jp/pumice-magamp/"
+    "https://soulsoilstation.co.jp/pumice-magamp/",
+    "https://soulsoilstation.co.jp/drying-power/"
   ],
   "history": [
     {
@@ -73,6 +74,13 @@
       "url": "https://soulsoilstation.co.jp/pumice-magamp/",
       "title": "塊根・アガベ｜軽石×マグァンプK×毎日水やりで爆速成長する条件とリスク",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3b9b8d2cdc6345cc977f11c318ab4cdbfed46302/images/pumice-magamp.jpg"
+    },
+    {
+      "timestamp": "2026-07-20T10:25:27.881265",
+      "media_id": "18061122932756139",
+      "url": "https://soulsoilstation.co.jp/drying-power/",
+      "title": "雨ざらしで根腐れしない条件｜乾く力を決める風・鉢・用土の科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/da9fd26fc333185e84ee7d72519152ecf63578b7/images/drying-power.jpg"
     }
   ]
 }
