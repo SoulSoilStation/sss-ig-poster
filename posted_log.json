@@ -9,7 +9,8 @@
     "https://soulsoilstation.co.jp/seedling-tray/",
     "https://soulsoilstation.co.jp/seedling-potsize/",
     "https://soulsoilstation.co.jp/pumice-magamp/",
-    "https://soulsoilstation.co.jp/drying-power/"
+    "https://soulsoilstation.co.jp/drying-power/",
+    "https://soulsoilstation.co.jp/misting-pitfall/"
   ],
   "history": [
     {
@@ -81,6 +82,13 @@
       "url": "https://soulsoilstation.co.jp/drying-power/",
       "title": "雨ざらしで根腐れしない条件｜乾く力を決める風・鉢・用土の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/da9fd26fc333185e84ee7d72519152ecf63578b7/images/drying-power.jpg"
+    },
+    {
+      "timestamp": "2026-07-21T07:57:31.965838",
+      "media_id": "18136898518503629",
+      "url": "https://soulsoilstation.co.jp/misting-pitfall/",
+      "title": "霧吹き水やりの落とし穴｜表面だけ濡れて根が育たない理由と葉水の科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8e92f8e84a8911093141001ded1ded7226292d2d/images/misting-pitfall.jpg"
     }
   ]
 }
