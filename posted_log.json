@@ -1,16 +1,6 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/ec-waveform/",
-    "https://soulsoilstation.co.jp/light-acclimation/",
-    "https://soulsoilstation.co.jp/moisture-reading/",
-    "https://soulsoilstation.co.jp/slow-infiltration/",
-    "https://soulsoilstation.co.jp/agave-compact/",
-    "https://soulsoilstation.co.jp/wet-duration/",
-    "https://soulsoilstation.co.jp/seedling-tray/",
-    "https://soulsoilstation.co.jp/seedling-potsize/",
-    "https://soulsoilstation.co.jp/pumice-magamp/",
-    "https://soulsoilstation.co.jp/drying-power/",
-    "https://soulsoilstation.co.jp/misting-pitfall/"
+    "https://soulsoilstation.co.jp/agave-compact/"
   ],
   "history": [
     {
@@ -89,6 +79,13 @@
       "url": "https://soulsoilstation.co.jp/misting-pitfall/",
       "title": "霧吹き水やりの落とし穴｜表面だけ濡れて根が育たない理由と葉水の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8e92f8e84a8911093141001ded1ded7226292d2d/images/misting-pitfall.jpg"
+    },
+    {
+      "timestamp": "2026-07-22T07:57:00.568941",
+      "media_id": "17917600908204923",
+      "url": "https://soulsoilstation.co.jp/agave-compact/",
+      "title": "アガベをコンパクトに育てる科学的メソッド：徒長を防ぐ光と根の管理",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3477a8b7f96f7cd6a7e60d3a3c6e293f3cdb66da/images/agave-compact.jpg"
     }
   ]
 }
