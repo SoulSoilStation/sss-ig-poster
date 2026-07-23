@@ -1,6 +1,7 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/agave-compact/"
+    "https://soulsoilstation.co.jp/agave-compact/",
+    "https://soulsoilstation.co.jp/pumice-magamp/"
   ],
   "history": [
     {
@@ -86,6 +87,13 @@
       "url": "https://soulsoilstation.co.jp/agave-compact/",
       "title": "アガベをコンパクトに育てる科学的メソッド：徒長を防ぐ光と根の管理",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3477a8b7f96f7cd6a7e60d3a3c6e293f3cdb66da/images/agave-compact.jpg"
+    },
+    {
+      "timestamp": "2026-07-23T08:00:11.485930",
+      "media_id": "17898522144492719",
+      "url": "https://soulsoilstation.co.jp/pumice-magamp/",
+      "title": "塊根・アガベ｜軽石×マグァンプK×毎日水やりで爆速成長する条件とリスク",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/9d6668d0950006d5bdbdbd2f72b602f5b8893c37/images/pumice-magamp.jpg"
     }
   ]
 }
