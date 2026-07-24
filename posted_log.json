@@ -1,7 +1,8 @@
 {
   "posted": [
     "https://soulsoilstation.co.jp/agave-compact/",
-    "https://soulsoilstation.co.jp/pumice-magamp/"
+    "https://soulsoilstation.co.jp/pumice-magamp/",
+    "https://soulsoilstation.co.jp/seedling-potsize/"
   ],
   "history": [
     {
@@ -94,6 +95,13 @@
       "url": "https://soulsoilstation.co.jp/pumice-magamp/",
       "title": "塊根・アガベ｜軽石×マグァンプK×毎日水やりで爆速成長する条件とリスク",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/9d6668d0950006d5bdbdbd2f72b602f5b8893c37/images/pumice-magamp.jpg"
+    },
+    {
+      "timestamp": "2026-07-24T07:56:56.758232",
+      "media_id": "18001950533974477",
+      "url": "https://soulsoilstation.co.jp/seedling-potsize/",
+      "title": "実生株は大きな鉢ほど育つ？鉢サイズと深さの科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/e53effc71b651ee51837f7df61be68b268546fcb/images/seedling-potsize.jpg"
     }
   ]
 }
