@@ -9,7 +9,8 @@
     "https://soulsoilstation.co.jp/ec-waveform/",
     "https://soulsoilstation.co.jp/moisture-reading/",
     "https://soulsoilstation.co.jp/seedling-tray/",
-    "https://soulsoilstation.co.jp/uv-coloring/"
+    "https://soulsoilstation.co.jp/uv-coloring/",
+    "https://soulsoilstation.co.jp/ppfd-duration/"
   ],
   "history": [
     {
@@ -158,6 +159,13 @@
       "url": "https://soulsoilstation.co.jp/uv-coloring/",
       "title": "UV補光は色に効く？塊根・多肉のアントシアニンと安全な当て方",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b1a1149037693c8a71f5f95e54ca440aabea880c/images/uv-coloring.jpg"
+    },
+    {
+      "timestamp": "2026-08-02T00:02:15.005722",
+      "media_id": "18108914414107296",
+      "url": "https://soulsoilstation.co.jp/ppfd-duration/",
+      "title": "同じDLIでも仕上がりが違う理由｜強光短時間と弱光長時間の使い分け【塊根・多肉】",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/7fa1438b75010d38de316ccdc8564a7dc9da3d2e/images/ppfd-duration.jpg"
     }
   ]
 }
