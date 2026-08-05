@@ -1,17 +1,6 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/agave-compact/",
-    "https://soulsoilstation.co.jp/pumice-magamp/",
-    "https://soulsoilstation.co.jp/seedling-potsize/",
-    "https://soulsoilstation.co.jp/soil-rinse/",
-    "https://soulsoilstation.co.jp/wet-duration/",
-    "https://soulsoilstation.co.jp/drying-power/",
-    "https://soulsoilstation.co.jp/ec-waveform/",
-    "https://soulsoilstation.co.jp/moisture-reading/",
-    "https://soulsoilstation.co.jp/seedling-tray/",
-    "https://soulsoilstation.co.jp/uv-coloring/",
-    "https://soulsoilstation.co.jp/ppfd-duration/",
-    "https://soulsoilstation.co.jp/pot-placement/"
+    "https://soulsoilstation.co.jp/pumice-magamp/"
   ],
   "history": [
     {
@@ -174,6 +163,13 @@
       "url": "https://soulsoilstation.co.jp/pot-placement/",
       "title": "湿りっぱなしを防ぐ鉢の置き場所｜受け皿・棚・床材で乾きが変わる理由",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/af24e6b61e859c85438af8d4cf6bcee7bfbb0b4c/images/pot-placement.jpg"
+    },
+    {
+      "timestamp": "2026-08-05T00:09:49.243964",
+      "media_id": "18108155948045658",
+      "url": "https://soulsoilstation.co.jp/pumice-magamp/",
+      "title": "塊根・アガベ｜軽石×マグァンプK×毎日水やりで爆速成長する条件とリスク",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/7ecbacf6035b00f5f0ad87344b07a6c3da834385/images/pumice-magamp.jpg"
     }
   ]
 }
