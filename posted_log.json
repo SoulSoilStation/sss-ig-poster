@@ -1,6 +1,7 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/pumice-magamp/"
+    "https://soulsoilstation.co.jp/pumice-magamp/",
+    "https://soulsoilstation.co.jp/seedling-potsize/"
   ],
   "history": [
     {
@@ -170,6 +171,13 @@
       "url": "https://soulsoilstation.co.jp/pumice-magamp/",
       "title": "塊根・アガベ｜軽石×マグァンプK×毎日水やりで爆速成長する条件とリスク",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/7ecbacf6035b00f5f0ad87344b07a6c3da834385/images/pumice-magamp.jpg"
+    },
+    {
+      "timestamp": "2026-08-06T00:03:49.449495",
+      "media_id": "18011664089945852",
+      "url": "https://soulsoilstation.co.jp/seedling-potsize/",
+      "title": "実生株は大きな鉢ほど育つ？鉢サイズと深さの科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/bce2f99cb84f823557bcc6cf4b6857c1169be47f/images/seedling-potsize.jpg"
     }
   ]
 }
