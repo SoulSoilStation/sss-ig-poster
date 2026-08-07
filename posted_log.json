@@ -2,7 +2,8 @@
   "posted": [
     "https://soulsoilstation.co.jp/pumice-magamp/",
     "https://soulsoilstation.co.jp/seedling-potsize/",
-    "https://soulsoilstation.co.jp/ppfd-duration/"
+    "https://soulsoilstation.co.jp/ppfd-duration/",
+    "https://soulsoilstation.co.jp/moisture-reading/"
   ],
   "history": [
     {
@@ -186,6 +187,13 @@
       "url": "https://soulsoilstation.co.jp/ppfd-duration/",
       "title": "同じDLIでも仕上がりが違う理由｜強光短時間と弱光長時間の使い分け【塊根・多肉】",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/647b64741b7355609c9772d97a1b7367c5c6cdca/images/ppfd-duration.jpg"
+    },
+    {
+      "timestamp": "2026-08-07T23:38:23.024142",
+      "media_id": "18084390323672474",
+      "url": "https://soulsoilstation.co.jp/moisture-reading/",
+      "title": "鉢内水分センサーの読み方｜含水率で乾きを正しく判断する",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/e1b542711f9efec3bd5b1baed57ef7fe7e24a6d3/images/moisture-reading.jpg"
     }
   ]
 }
