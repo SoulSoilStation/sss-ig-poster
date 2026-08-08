@@ -3,7 +3,8 @@
     "https://soulsoilstation.co.jp/pumice-magamp/",
     "https://soulsoilstation.co.jp/seedling-potsize/",
     "https://soulsoilstation.co.jp/ppfd-duration/",
-    "https://soulsoilstation.co.jp/moisture-reading/"
+    "https://soulsoilstation.co.jp/moisture-reading/",
+    "https://soulsoilstation.co.jp/soil-rinse/"
   ],
   "history": [
     {
@@ -194,6 +195,13 @@
       "url": "https://soulsoilstation.co.jp/moisture-reading/",
       "title": "鉢内水分センサーの読み方｜含水率で乾きを正しく判断する",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/e1b542711f9efec3bd5b1baed57ef7fe7e24a6d3/images/moisture-reading.jpg"
+    },
+    {
+      "timestamp": "2026-08-08T23:34:13.917850",
+      "media_id": "18350167474170668",
+      "url": "https://soulsoilstation.co.jp/soil-rinse/",
+      "title": "用土の初期すすぎは必要か｜粉塵・塩・微塵を落とす判断基準【塊根・多肉】",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/c399ebadc1e06f588de44efcb8888ddd42b69bd5/images/soil-rinse.jpg"
     }
   ]
 }
