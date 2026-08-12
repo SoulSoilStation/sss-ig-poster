@@ -6,7 +6,8 @@
     "https://soulsoilstation.co.jp/moisture-reading/",
     "https://soulsoilstation.co.jp/soil-rinse/",
     "https://soulsoilstation.co.jp/particle-shape/",
-    "https://soulsoilstation.co.jp/uv-coloring/"
+    "https://soulsoilstation.co.jp/uv-coloring/",
+    "https://soulsoilstation.co.jp/pot-placement/"
   ],
   "history": [
     {
@@ -218,6 +219,13 @@
       "url": "https://soulsoilstation.co.jp/uv-coloring/",
       "title": "UV補光は色に効く？塊根・多肉のアントシアニンと安全な当て方",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/45c0f0aca6e34ab5f54bebf39e22c5053fcb4c1e/images/uv-coloring.jpg"
+    },
+    {
+      "timestamp": "2026-08-12T23:49:03.350775",
+      "media_id": "18083084999274423",
+      "url": "https://soulsoilstation.co.jp/pot-placement/",
+      "title": "湿りっぱなしを防ぐ鉢の置き場所｜受け皿・棚・床材で乾きが変わる理由",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/a424b046e258b6f002dd27fdb6196e3bce581e48/images/pot-placement.jpg"
     }
   ]
 }
