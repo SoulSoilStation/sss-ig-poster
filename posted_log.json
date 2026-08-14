@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/particle-shape/",
     "https://soulsoilstation.co.jp/uv-coloring/",
     "https://soulsoilstation.co.jp/pot-placement/",
-    "https://soulsoilstation.co.jp/weight-method/"
+    "https://soulsoilstation.co.jp/weight-method/",
+    "https://soulsoilstation.co.jp/seedling-tray/"
   ],
   "history": [
     {
@@ -234,6 +235,13 @@
       "url": "https://soulsoilstation.co.jp/weight-method/",
       "title": "重量法で決める次の水やりライン｜鉢の重さで乾きを数値化",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/63365839e3e94ba9a6f885456f7372383b33c82a/images/weight-method.jpg"
+    },
+    {
+      "timestamp": "2026-08-14T23:26:37.310467",
+      "media_id": "18109202120469869",
+      "url": "https://soulsoilstation.co.jp/seedling-tray/",
+      "title": "育苗トレーはセル型とプール型どっちが育つ？根の活動空間で考える実生の選び方",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/499a88897a88b7227937cf377dcd4f80b8baa5c0/images/seedling-tray.jpg"
     }
   ]
 }
