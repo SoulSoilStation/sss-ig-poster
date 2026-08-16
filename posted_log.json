@@ -10,7 +10,8 @@
     "https://soulsoilstation.co.jp/pot-placement/",
     "https://soulsoilstation.co.jp/weight-method/",
     "https://soulsoilstation.co.jp/seedling-tray/",
-    "https://soulsoilstation.co.jp/rootzone-co2/"
+    "https://soulsoilstation.co.jp/rootzone-co2/",
+    "https://soulsoilstation.co.jp/perched-water/"
   ],
   "history": [
     {
@@ -250,6 +251,13 @@
       "url": "https://soulsoilstation.co.jp/rootzone-co2/",
       "title": "根域にCO₂が溜まると何が起きる？｜土の呼吸と「鉢の換気」の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/f002dc0b8e913711eb78c9e269b7b9f2232848f6/images/rootzone-co2.jpg"
+    },
+    {
+      "timestamp": "2026-08-16T23:25:15.066376",
+      "media_id": "18112514062985922",
+      "url": "https://soulsoilstation.co.jp/perched-water/",
+      "title": "滞水層（パーチドウォーターテーブル）とは｜鉢底に水が残る物理と対策",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/400952ff03c7191525901806548d1b935051e4dd/images/perched-water.jpg"
     }
   ]
 }
