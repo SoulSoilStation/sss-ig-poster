@@ -3,7 +3,8 @@
     "https://soulsoilstation.co.jp/seedling-potsize/",
     "https://soulsoilstation.co.jp/soil-rinse/",
     "https://soulsoilstation.co.jp/perched-water/",
-    "https://soulsoilstation.co.jp/weight-method/"
+    "https://soulsoilstation.co.jp/weight-method/",
+    "https://soulsoilstation.co.jp/pot-placement/"
   ],
   "history": [
     {
@@ -278,6 +279,13 @@
       "url": "https://soulsoilstation.co.jp/weight-method/",
       "title": "重量法で決める次の水やりライン｜鉢の重さで乾きを数値化",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/ef5d70ce9d57f83a1b6512fa4d6361f5c05552c7/images/weight-method.jpg"
+    },
+    {
+      "timestamp": "2026-08-22T23:26:10.432878",
+      "media_id": "18117715607318793",
+      "url": "https://soulsoilstation.co.jp/pot-placement/",
+      "title": "湿りっぱなしを防ぐ鉢の置き場所｜受け皿・棚・床材で乾きが変わる理由",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/4a7f09e8a6c1e0fc96b2ec00630378c026e51216/images/pot-placement.jpg"
     }
   ]
 }
