@@ -5,7 +5,8 @@
     "https://soulsoilstation.co.jp/perched-water/",
     "https://soulsoilstation.co.jp/weight-method/",
     "https://soulsoilstation.co.jp/pot-placement/",
-    "https://soulsoilstation.co.jp/rootzone-co2/"
+    "https://soulsoilstation.co.jp/rootzone-co2/",
+    "https://soulsoilstation.co.jp/particle-shape/"
   ],
   "history": [
     {
@@ -294,6 +295,13 @@
       "url": "https://soulsoilstation.co.jp/rootzone-co2/",
       "title": "根域にCO₂が溜まると何が起きる？｜土の呼吸と「鉢の換気」の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/a6ebcdad710c931605d1b32b14cee972e3067718/images/rootzone-co2.jpg"
+    },
+    {
+      "timestamp": "2026-08-25T23:29:18.694657",
+      "media_id": "18104856746520958",
+      "url": "https://soulsoilstation.co.jp/particle-shape/",
+      "title": "塊根/アガベ　粒の形で通気は変わる｜詰まりやすい土の見分け方",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b216dfa560afe2d977d014ea89182939b0f584cc/images/particle-shape.jpg"
     }
   ]
 }
