@@ -6,7 +6,8 @@
     "https://soulsoilstation.co.jp/weight-method/",
     "https://soulsoilstation.co.jp/pot-placement/",
     "https://soulsoilstation.co.jp/rootzone-co2/",
-    "https://soulsoilstation.co.jp/particle-shape/"
+    "https://soulsoilstation.co.jp/particle-shape/",
+    "https://soulsoilstation.co.jp/ppfd-duration/"
   ],
   "history": [
     {
@@ -302,6 +303,13 @@
       "url": "https://soulsoilstation.co.jp/particle-shape/",
       "title": "塊根/アガベ　粒の形で通気は変わる｜詰まりやすい土の見分け方",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b216dfa560afe2d977d014ea89182939b0f584cc/images/particle-shape.jpg"
+    },
+    {
+      "timestamp": "2026-08-27T04:26:52.334446",
+      "media_id": "18128224279741722",
+      "url": "https://soulsoilstation.co.jp/ppfd-duration/",
+      "title": "同じDLIでも仕上がりが違う理由｜強光短時間と弱光長時間の使い分け【塊根・多肉】",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/ef5644c5da9cd6648176f8477755bf5f05788005/images/ppfd-duration.jpg"
     }
   ]
 }
