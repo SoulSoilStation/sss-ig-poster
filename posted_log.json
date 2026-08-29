@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/rootzone-co2/",
     "https://soulsoilstation.co.jp/particle-shape/",
     "https://soulsoilstation.co.jp/ppfd-duration/",
-    "https://soulsoilstation.co.jp/elephantipes-sowing/"
+    "https://soulsoilstation.co.jp/elephantipes-sowing/",
+    "https://soulsoilstation.co.jp/rescue-pachypodium/"
   ],
   "history": [
     {
@@ -318,6 +319,13 @@
       "url": "https://soulsoilstation.co.jp/elephantipes-sowing/",
       "title": "亀甲竜の播種｜適期・発芽温度・失敗しない種まき手順を科学的に解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/03f065517bdc8de1c7ffed9d1bfb7cf0176fcf7e/images/elephantipes-sowing.jpg"
+    },
+    {
+      "timestamp": "2026-08-29T04:05:20.703120",
+      "media_id": "18121759069869991",
+      "url": "https://soulsoilstation.co.jp/rescue-pachypodium/",
+      "title": "腐りかけたパキポディウムを復活させる方法｜腐敗の切除・乾燥・再発根の科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/4c5257281745780bcd9e7a1ce0cffadd7f671037/images/rescue-pachypodium.jpg"
     }
   ]
 }
