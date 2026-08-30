@@ -9,7 +9,8 @@
     "https://soulsoilstation.co.jp/particle-shape/",
     "https://soulsoilstation.co.jp/ppfd-duration/",
     "https://soulsoilstation.co.jp/elephantipes-sowing/",
-    "https://soulsoilstation.co.jp/rescue-pachypodium/"
+    "https://soulsoilstation.co.jp/rescue-pachypodium/",
+    "https://soulsoilstation.co.jp/uv-coloring/"
   ],
   "history": [
     {
@@ -326,6 +327,13 @@
       "url": "https://soulsoilstation.co.jp/rescue-pachypodium/",
       "title": "腐りかけたパキポディウムを復活させる方法｜腐敗の切除・乾燥・再発根の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/4c5257281745780bcd9e7a1ce0cffadd7f671037/images/rescue-pachypodium.jpg"
+    },
+    {
+      "timestamp": "2026-08-30T01:10:51.535140",
+      "media_id": "17992747097992909",
+      "url": "https://soulsoilstation.co.jp/uv-coloring/",
+      "title": "UV補光は色に効く？塊根・多肉のアントシアニンと安全な当て方",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/33d6e7e96519c65ab71745ffbc26e0843ed85a0a/images/uv-coloring.jpg"
     }
   ]
 }
