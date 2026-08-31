@@ -10,7 +10,8 @@
     "https://soulsoilstation.co.jp/ppfd-duration/",
     "https://soulsoilstation.co.jp/elephantipes-sowing/",
     "https://soulsoilstation.co.jp/rescue-pachypodium/",
-    "https://soulsoilstation.co.jp/uv-coloring/"
+    "https://soulsoilstation.co.jp/uv-coloring/",
+    "https://soulsoilstation.co.jp/particle-migration/"
   ],
   "history": [
     {
@@ -334,6 +335,13 @@
       "url": "https://soulsoilstation.co.jp/uv-coloring/",
       "title": "UV補光は色に効く？塊根・多肉のアントシアニンと安全な当て方",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/33d6e7e96519c65ab71745ffbc26e0843ed85a0a/images/uv-coloring.jpg"
+    },
+    {
+      "timestamp": "2026-08-31T01:16:42.395419",
+      "media_id": "18434985784176006",
+      "url": "https://soulsoilstation.co.jp/particle-migration/",
+      "title": "鉢底に細かい用土が溜まると根の呼吸は止まる？粒径比と停滞水で決まる目詰まりの科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/7701f8d2a0e91bcacaac7defa37322039ea7e8c9/images/particle-migration.jpg"
     }
   ]
 }
