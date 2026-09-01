@@ -11,7 +11,8 @@
     "https://soulsoilstation.co.jp/elephantipes-sowing/",
     "https://soulsoilstation.co.jp/rescue-pachypodium/",
     "https://soulsoilstation.co.jp/uv-coloring/",
-    "https://soulsoilstation.co.jp/particle-migration/"
+    "https://soulsoilstation.co.jp/particle-migration/",
+    "https://soulsoilstation.co.jp/slow-infiltration-2/"
   ],
   "history": [
     {
@@ -342,6 +343,13 @@
       "url": "https://soulsoilstation.co.jp/particle-migration/",
       "title": "鉢底に細かい用土が溜まると根の呼吸は止まる？粒径比と停滞水で決まる目詰まりの科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/7701f8d2a0e91bcacaac7defa37322039ea7e8c9/images/particle-migration.jpg"
+    },
+    {
+      "timestamp": "2026-09-01T01:44:33.276331",
+      "media_id": "18085136957703087",
+      "url": "https://soulsoilstation.co.jp/slow-infiltration-2/",
+      "title": "水やりの浸透が遅い原因｜撥水・粒度・水圧で決まる鉢の吸水",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/217e0572675a9ee26e3ea94ac439c11ddfbcd0cb/images/slow-infiltration-2.jpg"
     }
   ]
 }
