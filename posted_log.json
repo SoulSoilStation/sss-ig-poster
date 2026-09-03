@@ -1,6 +1,7 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/weight-method/"
+    "https://soulsoilstation.co.jp/weight-method/",
+    "https://soulsoilstation.co.jp/uv-coloring/"
   ],
   "history": [
     {
@@ -345,6 +346,13 @@
       "url": "https://soulsoilstation.co.jp/weight-method/",
       "title": "重量法で決める次の水やりライン｜鉢の重さで乾きを数値化",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/fdef224711d4fd310875d1c0bab62f6490bb2576/images/weight-method.jpg"
+    },
+    {
+      "timestamp": "2026-09-03T01:01:37.034653",
+      "media_id": "18623530222008788",
+      "url": "https://soulsoilstation.co.jp/uv-coloring/",
+      "title": "UV補光は色に効く？塊根・多肉のアントシアニンと安全な当て方",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d16044ae37650dacde813a658a638defd2539ce3/images/uv-coloring.jpg"
     }
   ]
 }
