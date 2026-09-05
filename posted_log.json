@@ -1,7 +1,8 @@
 {
   "posted": [
     "https://soulsoilstation.co.jp/weight-method/",
-    "https://soulsoilstation.co.jp/uv-coloring/"
+    "https://soulsoilstation.co.jp/uv-coloring/",
+    "https://soulsoilstation.co.jp/particle-shape/"
   ],
   "history": [
     {
@@ -353,6 +354,13 @@
       "url": "https://soulsoilstation.co.jp/uv-coloring/",
       "title": "UV補光は色に効く？塊根・多肉のアントシアニンと安全な当て方",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d16044ae37650dacde813a658a638defd2539ce3/images/uv-coloring.jpg"
+    },
+    {
+      "timestamp": "2026-09-05T00:46:41.686426",
+      "media_id": "18044146112630881",
+      "url": "https://soulsoilstation.co.jp/particle-shape/",
+      "title": "塊根/アガベ　粒の形で通気は変わる｜詰まりやすい土の見分け方",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3b7b15a8e26508f9fe74c0e4b5af498bdab55ec6/images/particle-shape.jpg"
     }
   ]
 }
