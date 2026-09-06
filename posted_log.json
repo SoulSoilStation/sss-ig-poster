@@ -2,7 +2,8 @@
   "posted": [
     "https://soulsoilstation.co.jp/weight-method/",
     "https://soulsoilstation.co.jp/uv-coloring/",
-    "https://soulsoilstation.co.jp/particle-shape/"
+    "https://soulsoilstation.co.jp/particle-shape/",
+    "https://soulsoilstation.co.jp/rescue-pachypodium/"
   ],
   "history": [
     {
@@ -361,6 +362,13 @@
       "url": "https://soulsoilstation.co.jp/particle-shape/",
       "title": "塊根/アガベ　粒の形で通気は変わる｜詰まりやすい土の見分け方",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3b7b15a8e26508f9fe74c0e4b5af498bdab55ec6/images/particle-shape.jpg"
+    },
+    {
+      "timestamp": "2026-09-06T00:45:23.824531",
+      "media_id": "18132984859651523",
+      "url": "https://soulsoilstation.co.jp/rescue-pachypodium/",
+      "title": "腐りかけたパキポディウムを復活させる方法｜腐敗の切除・乾燥・再発根の科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/445955056c08727dbd5480f462946dc16e26f2a3/images/rescue-pachypodium.jpg"
     }
   ]
 }
