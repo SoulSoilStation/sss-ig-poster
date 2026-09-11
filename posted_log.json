@@ -5,7 +5,8 @@
     "https://soulsoilstation.co.jp/particle-shape/",
     "https://soulsoilstation.co.jp/rescue-pachypodium/",
     "https://soulsoilstation.co.jp/elephantipes-sowing/",
-    "https://soulsoilstation.co.jp/particle-migration/"
+    "https://soulsoilstation.co.jp/particle-migration/",
+    "https://soulsoilstation.co.jp/basal-humidity/"
   ],
   "history": [
     {
@@ -385,6 +386,13 @@
       "url": "https://soulsoilstation.co.jp/particle-migration/",
       "title": "鉢底に細かい用土が溜まると根の呼吸は止まる？粒径比と停滞水で決まる目詰まりの科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/c857dbcfc3bb8434a11bd1f1f01e65a455d0d05e/images/particle-migration.jpg"
+    },
+    {
+      "timestamp": "2026-09-11T00:53:28.177426",
+      "media_id": "18489766966102141",
+      "url": "https://soulsoilstation.co.jp/basal-humidity/",
+      "title": "葉水ではなく株元加湿｜多肉・塊根の発根と養生の湿度管理",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/c3a6d667c1588d0dc50ef8ee9cffc6dd20b72db4/images/basal-humidity.jpg"
     }
   ]
 }
