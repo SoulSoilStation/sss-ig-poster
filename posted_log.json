@@ -6,7 +6,8 @@
     "https://soulsoilstation.co.jp/rescue-pachypodium/",
     "https://soulsoilstation.co.jp/elephantipes-sowing/",
     "https://soulsoilstation.co.jp/particle-migration/",
-    "https://soulsoilstation.co.jp/basal-humidity/"
+    "https://soulsoilstation.co.jp/basal-humidity/",
+    "https://soulsoilstation.co.jp/nitrate-ammonium/"
   ],
   "history": [
     {
@@ -393,6 +394,13 @@
       "url": "https://soulsoilstation.co.jp/basal-humidity/",
       "title": "葉水ではなく株元加湿｜多肉・塊根の発根と養生の湿度管理",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/c3a6d667c1588d0dc50ef8ee9cffc6dd20b72db4/images/basal-humidity.jpg"
+    },
+    {
+      "timestamp": "2026-09-12T00:58:53.082597",
+      "media_id": "18091526891553719",
+      "url": "https://soulsoilstation.co.jp/nitrate-ammonium/",
+      "title": "硝酸態窒素とアンモニア態窒素の違い｜塊根・多肉への効果と根圏pH",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/478390421324aca9a6111965b97d9ba353f7e455/images/nitrate-ammonium.jpg"
     }
   ]
 }
