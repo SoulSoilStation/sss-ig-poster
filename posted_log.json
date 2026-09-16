@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/particle-migration/",
     "https://soulsoilstation.co.jp/basal-humidity/",
     "https://soulsoilstation.co.jp/nitrate-ammonium/",
-    "https://soulsoilstation.co.jp/rootzone-co2/"
+    "https://soulsoilstation.co.jp/rootzone-co2/",
+    "https://soulsoilstation.co.jp/post-rooting/"
   ],
   "history": [
     {
@@ -409,6 +410,13 @@
       "url": "https://soulsoilstation.co.jp/rootzone-co2/",
       "title": "根域にCO₂が溜まると何が起きる？｜土の呼吸と「鉢の換気」の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/578035a6e4f549bf31e39600e8b05559e9593b56/images/rootzone-co2.jpg"
+    },
+    {
+      "timestamp": "2026-09-16T01:12:18.950157",
+      "media_id": "17958998543999810",
+      "url": "https://soulsoilstation.co.jp/post-rooting/",
+      "title": "発根直後に失速する理由｜光・水・肥料を入れる正しい順番",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/1656fd34ffe186d7036cb48347edd06135f8ccbc/images/post-rooting.jpg"
     }
   ]
 }
