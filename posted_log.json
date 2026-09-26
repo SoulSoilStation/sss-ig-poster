@@ -2,7 +2,8 @@
   "posted": [
     "https://soulsoilstation.co.jp/foliar-micronutrients/",
     "https://soulsoilstation.co.jp/elephantipes-sowing/",
-    "https://soulsoilstation.co.jp/hand-pollination/"
+    "https://soulsoilstation.co.jp/hand-pollination/",
+    "https://soulsoilstation.co.jp/silica-evidence/"
   ],
   "history": [
     {
@@ -466,6 +467,13 @@
       "url": "https://soulsoilstation.co.jp/hand-pollination/",
       "title": "塊根植物の人工授粉と種の採り方｜開花から採種・保存まで",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/904ef03808de695228ee1615905d6bb627608e56/images/hand-pollination.jpg"
+    },
+    {
+      "timestamp": "2026-09-26T01:21:20.041694",
+      "media_id": "18097772432567061",
+      "url": "https://soulsoilstation.co.jp/silica-evidence/",
+      "title": "珪酸（シリカ）資材は塊根・アガベに効く？葉焼けと病害のエビデンス",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/9cb8d41814881a0234a8c06fd24db8cc40a62343/images/silica-evidence.jpg"
     }
   ]
 }
