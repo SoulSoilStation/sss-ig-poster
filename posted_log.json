@@ -5,7 +5,8 @@
     "https://soulsoilstation.co.jp/hand-pollination/",
     "https://soulsoilstation.co.jp/silica-evidence/",
     "https://soulsoilstation.co.jp/slow-infiltration-2/",
-    "https://soulsoilstation.co.jp/caudex-buying/"
+    "https://soulsoilstation.co.jp/caudex-buying/",
+    "https://soulsoilstation.co.jp/led-cost/"
   ],
   "history": [
     {
@@ -490,6 +491,13 @@
       "url": "https://soulsoilstation.co.jp/caudex-buying/",
       "title": "ネット通販で良い塊根植物を選ぶ方法｜写真で確認した【10のポイント】",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/282cd0c95e59118116366244fe87e2ee11253fde/images/caudex-buying.jpg"
+    },
+    {
+      "timestamp": "2026-09-29T02:32:08.228792",
+      "media_id": "18111599084137494",
+      "url": "https://soulsoilstation.co.jp/led-cost/",
+      "title": "植物育成LEDの電気代はいくら？消費電力と点灯時間で年間コストを計算",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/af5af7f5a3c23007198d150ad033c7471125d955/images/led-cost.jpg"
     }
   ]
 }
