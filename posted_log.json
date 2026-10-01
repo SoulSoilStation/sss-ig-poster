@@ -7,7 +7,8 @@
     "https://soulsoilstation.co.jp/slow-infiltration-2/",
     "https://soulsoilstation.co.jp/caudex-buying/",
     "https://soulsoilstation.co.jp/led-cost/",
-    "https://soulsoilstation.co.jp/nitrate-ammonium/"
+    "https://soulsoilstation.co.jp/nitrate-ammonium/",
+    "https://soulsoilstation.co.jp/post-rooting/"
   ],
   "history": [
     {
@@ -506,6 +507,13 @@
       "url": "https://soulsoilstation.co.jp/nitrate-ammonium/",
       "title": "硝酸態窒素とアンモニア態窒素の違い｜塊根・多肉への効果と根圏pH",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/25635d29ec23f4b6ecf7a3a2843d9f71fdeecfaf/images/nitrate-ammonium.jpg"
+    },
+    {
+      "timestamp": "2026-10-01T01:55:47.029205",
+      "media_id": "17933328456403171",
+      "url": "https://soulsoilstation.co.jp/post-rooting/",
+      "title": "発根直後に失速する理由｜光・水・肥料を入れる正しい順番",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/0f3f0899f13b94a30fbd9fabcc5882e4fcf0c96b/images/post-rooting.jpg"
     }
   ]
 }
