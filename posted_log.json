@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/caudex-buying/",
     "https://soulsoilstation.co.jp/led-cost/",
     "https://soulsoilstation.co.jp/nitrate-ammonium/",
-    "https://soulsoilstation.co.jp/post-rooting/"
+    "https://soulsoilstation.co.jp/post-rooting/",
+    "https://soulsoilstation.co.jp/basal-humidity/"
   ],
   "history": [
     {
@@ -514,6 +515,13 @@
       "url": "https://soulsoilstation.co.jp/post-rooting/",
       "title": "発根直後に失速する理由｜光・水・肥料を入れる正しい順番",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/0f3f0899f13b94a30fbd9fabcc5882e4fcf0c96b/images/post-rooting.jpg"
+    },
+    {
+      "timestamp": "2026-10-02T02:04:59.898990",
+      "media_id": "18124869658893849",
+      "url": "https://soulsoilstation.co.jp/basal-humidity/",
+      "title": "葉水ではなく株元加湿｜多肉・塊根の発根と養生の湿度管理",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b3f18fef456ef77e14700134234047f79811ef35/images/basal-humidity.jpg"
     }
   ]
 }
