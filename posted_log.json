@@ -9,7 +9,8 @@
     "https://soulsoilstation.co.jp/led-cost/",
     "https://soulsoilstation.co.jp/nitrate-ammonium/",
     "https://soulsoilstation.co.jp/post-rooting/",
-    "https://soulsoilstation.co.jp/basal-humidity/"
+    "https://soulsoilstation.co.jp/basal-humidity/",
+    "https://soulsoilstation.co.jp/caudex-price/"
   ],
   "history": [
     {
@@ -522,6 +523,13 @@
       "url": "https://soulsoilstation.co.jp/basal-humidity/",
       "title": "葉水ではなく株元加湿｜多肉・塊根の発根と養生の湿度管理",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b3f18fef456ef77e14700134234047f79811ef35/images/basal-humidity.jpg"
+    },
+    {
+      "timestamp": "2026-10-03T01:49:27.937616",
+      "media_id": "18186328831412046",
+      "url": "https://soulsoilstation.co.jp/caudex-price/",
+      "title": "なぜ塊根植物は高いのか｜成長年数・輸送リスク・希少性で価格を解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/37715b782e98451892fe2fd56373213120c1b0e2/images/caudex-price.jpg"
     }
   ]
 }
