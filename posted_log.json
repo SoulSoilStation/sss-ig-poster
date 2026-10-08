@@ -1,7 +1,8 @@
 {
   "posted": [
     "https://soulsoilstation.co.jp/clear-pots/",
-    "https://soulsoilstation.co.jp/nitrate-ammonium/"
+    "https://soulsoilstation.co.jp/nitrate-ammonium/",
+    "https://soulsoilstation.co.jp/basal-humidity/"
   ],
   "history": [
     {
@@ -542,6 +543,13 @@
       "url": "https://soulsoilstation.co.jp/nitrate-ammonium/",
       "title": "硝酸態窒素とアンモニア態窒素の違い｜塊根・多肉への効果と根圏pH",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/9d20461f916418ca2677b33f23226b319d84bcd7/images/nitrate-ammonium.jpg"
+    },
+    {
+      "timestamp": "2026-10-08T02:37:05.265306",
+      "media_id": "18131748587497245",
+      "url": "https://soulsoilstation.co.jp/basal-humidity/",
+      "title": "葉水ではなく株元加湿｜多肉・塊根の発根と養生の湿度管理",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d8b43729d03c1c85ae41502f7b94aa47c148e27e/images/basal-humidity.jpg"
     }
   ]
 }
