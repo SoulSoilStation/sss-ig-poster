@@ -2,7 +2,8 @@
   "posted": [
     "https://soulsoilstation.co.jp/clear-pots/",
     "https://soulsoilstation.co.jp/nitrate-ammonium/",
-    "https://soulsoilstation.co.jp/basal-humidity/"
+    "https://soulsoilstation.co.jp/basal-humidity/",
+    "https://soulsoilstation.co.jp/silica-evidence/"
   ],
   "history": [
     {
@@ -550,6 +551,13 @@
       "url": "https://soulsoilstation.co.jp/basal-humidity/",
       "title": "葉水ではなく株元加湿｜多肉・塊根の発根と養生の湿度管理",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d8b43729d03c1c85ae41502f7b94aa47c148e27e/images/basal-humidity.jpg"
+    },
+    {
+      "timestamp": "2026-10-09T02:52:07.187783",
+      "media_id": "17911547478537661",
+      "url": "https://soulsoilstation.co.jp/silica-evidence/",
+      "title": "珪酸（シリカ）資材は塊根・アガベに効く？葉焼けと病害のエビデンス",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/04c54156ecbdd7645169a67dabb94aa15e467c4e/images/silica-evidence.jpg"
     }
   ]
 }
