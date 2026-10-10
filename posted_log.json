@@ -3,7 +3,8 @@
     "https://soulsoilstation.co.jp/clear-pots/",
     "https://soulsoilstation.co.jp/nitrate-ammonium/",
     "https://soulsoilstation.co.jp/basal-humidity/",
-    "https://soulsoilstation.co.jp/silica-evidence/"
+    "https://soulsoilstation.co.jp/silica-evidence/",
+    "https://soulsoilstation.co.jp/caudex-price/"
   ],
   "history": [
     {
@@ -558,6 +559,13 @@
       "url": "https://soulsoilstation.co.jp/silica-evidence/",
       "title": "珪酸（シリカ）資材は塊根・アガベに効く？葉焼けと病害のエビデンス",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/04c54156ecbdd7645169a67dabb94aa15e467c4e/images/silica-evidence.jpg"
+    },
+    {
+      "timestamp": "2026-10-10T02:12:21.440906",
+      "media_id": "18029904881687259",
+      "url": "https://soulsoilstation.co.jp/caudex-price/",
+      "title": "なぜ塊根植物は高いのか｜成長年数・輸送リスク・希少性で価格を解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/32b40b28d22d961976bce965ee203e1b2c41c3b0/images/caudex-price.jpg"
     }
   ]
 }
