@@ -4,7 +4,8 @@
     "https://soulsoilstation.co.jp/nitrate-ammonium/",
     "https://soulsoilstation.co.jp/basal-humidity/",
     "https://soulsoilstation.co.jp/silica-evidence/",
-    "https://soulsoilstation.co.jp/caudex-price/"
+    "https://soulsoilstation.co.jp/caudex-price/",
+    "https://soulsoilstation.co.jp/caudex-buying/"
   ],
   "history": [
     {
@@ -566,6 +567,13 @@
       "url": "https://soulsoilstation.co.jp/caudex-price/",
       "title": "なぜ塊根植物は高いのか｜成長年数・輸送リスク・希少性で価格を解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/32b40b28d22d961976bce965ee203e1b2c41c3b0/images/caudex-price.jpg"
+    },
+    {
+      "timestamp": "2026-10-11T01:44:48.768047",
+      "media_id": "17909194224558117",
+      "url": "https://soulsoilstation.co.jp/caudex-buying/",
+      "title": "ネット通販で良い塊根植物を選ぶ方法｜写真で確認した【10のポイント】",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/cf0a8297f2242a4e0ffcb05c4e13fc19878d6ac9/images/caudex-buying.jpg"
     }
   ]
 }
