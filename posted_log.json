@@ -5,7 +5,8 @@
     "https://soulsoilstation.co.jp/basal-humidity/",
     "https://soulsoilstation.co.jp/silica-evidence/",
     "https://soulsoilstation.co.jp/caudex-price/",
-    "https://soulsoilstation.co.jp/caudex-buying/"
+    "https://soulsoilstation.co.jp/caudex-buying/",
+    "https://soulsoilstation.co.jp/rainwater-irrigation/"
   ],
   "history": [
     {
@@ -574,6 +575,13 @@
       "url": "https://soulsoilstation.co.jp/caudex-buying/",
       "title": "ネット通販で良い塊根植物を選ぶ方法｜写真で確認した【10のポイント】",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/cf0a8297f2242a4e0ffcb05c4e13fc19878d6ac9/images/caudex-buying.jpg"
+    },
+    {
+      "timestamp": "2026-10-12T02:11:56.114574",
+      "media_id": "17989564338113059",
+      "url": "https://soulsoilstation.co.jp/rainwater-irrigation/",
+      "title": "雨水は水道水より植物に良い？成分・pH・雑菌・保存を比較",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/c88cb1d2181bb282371b6c4cdb7c4376441c3bae/images/rainwater-irrigation.jpg"
     }
   ]
 }
