@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/caudex-buying/",
     "https://soulsoilstation.co.jp/rainwater-irrigation/",
     "https://soulsoilstation.co.jp/moon-watering/",
-    "https://soulsoilstation.co.jp/post-rooting/"
+    "https://soulsoilstation.co.jp/post-rooting/",
+    "https://soulsoilstation.co.jp/foliar-micronutrients/"
   ],
   "history": [
     {
@@ -598,6 +599,13 @@
       "url": "https://soulsoilstation.co.jp/post-rooting/",
       "title": "発根直後に失速する理由｜光・水・肥料を入れる正しい順番",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/01163868fcd88dfa253f624cdb1ff8b0eb24caa3/images/post-rooting.jpg"
+    },
+    {
+      "timestamp": "2026-10-15T01:19:47.769346",
+      "media_id": "18357274741173649",
+      "url": "https://soulsoilstation.co.jp/foliar-micronutrients/",
+      "title": "葉面散布は効く？キレート鉄・微量要素の吸収ルートと限界｜塊根・多肉",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/4ac3112c72584c22dc9017a57aeb5ec3c487065a/images/foliar-micronutrients.jpg"
     }
   ]
 }
