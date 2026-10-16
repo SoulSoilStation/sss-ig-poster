@@ -9,7 +9,8 @@
     "https://soulsoilstation.co.jp/rainwater-irrigation/",
     "https://soulsoilstation.co.jp/moon-watering/",
     "https://soulsoilstation.co.jp/post-rooting/",
-    "https://soulsoilstation.co.jp/foliar-micronutrients/"
+    "https://soulsoilstation.co.jp/foliar-micronutrients/",
+    "https://soulsoilstation.co.jp/hydroculture-caudex/"
   ],
   "history": [
     {
@@ -606,6 +607,13 @@
       "url": "https://soulsoilstation.co.jp/foliar-micronutrients/",
       "title": "葉面散布は効く？キレート鉄・微量要素の吸収ルートと限界｜塊根・多肉",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/4ac3112c72584c22dc9017a57aeb5ec3c487065a/images/foliar-micronutrients.jpg"
+    },
+    {
+      "timestamp": "2026-10-16T01:04:58.122622",
+      "media_id": "18117556645991051",
+      "url": "https://soulsoilstation.co.jp/hydroculture-caudex/",
+      "title": "塊根植物はハイドロカルチャーで育つ？土なし栽培の限界と条件",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/e15300a02c4722f1bba76d514f309a6fcad66e7d/images/hydroculture-caudex.jpg"
     }
   ]
 }
