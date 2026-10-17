@@ -10,7 +10,8 @@
     "https://soulsoilstation.co.jp/moon-watering/",
     "https://soulsoilstation.co.jp/post-rooting/",
     "https://soulsoilstation.co.jp/foliar-micronutrients/",
-    "https://soulsoilstation.co.jp/hydroculture-caudex/"
+    "https://soulsoilstation.co.jp/hydroculture-caudex/",
+    "https://soulsoilstation.co.jp/hand-pollination/"
   ],
   "history": [
     {
@@ -614,6 +615,13 @@
       "url": "https://soulsoilstation.co.jp/hydroculture-caudex/",
       "title": "塊根植物はハイドロカルチャーで育つ？土なし栽培の限界と条件",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/e15300a02c4722f1bba76d514f309a6fcad66e7d/images/hydroculture-caudex.jpg"
+    },
+    {
+      "timestamp": "2026-10-17T01:11:31.402373",
+      "media_id": "18113171186039950",
+      "url": "https://soulsoilstation.co.jp/hand-pollination/",
+      "title": "塊根植物の人工授粉と種の採り方｜開花から採種・保存まで",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/52fa0f6940d77275effbd79cfd2b3ba0979b722a/images/hand-pollination.jpg"
     }
   ]
 }
