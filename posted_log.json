@@ -1,6 +1,7 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/clear-pots/"
+    "https://soulsoilstation.co.jp/clear-pots/",
+    "https://soulsoilstation.co.jp/euphorbia-latex/"
   ],
   "history": [
     {
@@ -639,6 +640,13 @@
       "url": "https://soulsoilstation.co.jp/clear-pots/",
       "title": "透明鉢で根は見える？根への光・藻・温度上昇の科学｜塊根・多肉",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/5012fb568d20bc9433ed197953605eddc5658562/images/clear-pots.jpg"
+    },
+    {
+      "timestamp": "2026-10-23T01:21:23.660691",
+      "media_id": "17982320966908060",
+      "url": "https://soulsoilstation.co.jp/euphorbia-latex/",
+      "title": "ユーフォルビアの白い樹液は危険？皮膚・目・ペットへの応急処置",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/177e7604d01e23e03349b3c336614e00e2c2e6f2/images/euphorbia-latex.jpg"
     }
   ]
 }
