@@ -1,7 +1,8 @@
 {
   "posted": [
     "https://soulsoilstation.co.jp/clear-pots/",
-    "https://soulsoilstation.co.jp/euphorbia-latex/"
+    "https://soulsoilstation.co.jp/euphorbia-latex/",
+    "https://soulsoilstation.co.jp/green-stem/"
   ],
   "history": [
     {
@@ -647,6 +648,13 @@
       "url": "https://soulsoilstation.co.jp/euphorbia-latex/",
       "title": "ユーフォルビアの白い樹液は危険？皮膚・目・ペットへの応急処置",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/177e7604d01e23e03349b3c336614e00e2c2e6f2/images/euphorbia-latex.jpg"
+    },
+    {
+      "timestamp": "2026-10-24T01:26:31.523178",
+      "media_id": "18026206538922358",
+      "url": "https://soulsoilstation.co.jp/green-stem/",
+      "title": "パキポディウムは葉がなくても光合成する？緑色の幹が冬を越す仕組み",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/ea628633f08fd95ae15a472655022e73c2c572b5/images/green-stem.jpg"
     }
   ]
 }
