@@ -4,7 +4,8 @@
     "https://soulsoilstation.co.jp/euphorbia-latex/",
     "https://soulsoilstation.co.jp/green-stem/",
     "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
-    "https://soulsoilstation.co.jp/caudex-price/"
+    "https://soulsoilstation.co.jp/caudex-price/",
+    "https://soulsoilstation.co.jp/hydroculture-caudex/"
   ],
   "history": [
     {
@@ -671,6 +672,13 @@
       "url": "https://soulsoilstation.co.jp/caudex-price/",
       "title": "なぜ塊根植物は高いのか｜成長年数・輸送リスク・希少性で価格を解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/270b2a1feb380d6332180221251dbcc38b80f4d6/images/caudex-price.jpg"
+    },
+    {
+      "timestamp": "2026-10-27T01:55:51.897988",
+      "media_id": "18102280634539760",
+      "url": "https://soulsoilstation.co.jp/hydroculture-caudex/",
+      "title": "塊根植物はハイドロカルチャーで育つ？土なし栽培の限界と条件",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8f58a7c67aa91b3d517ebdd1b575764ba681f2d6/images/hydroculture-caudex.jpg"
     }
   ]
 }
