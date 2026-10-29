@@ -5,7 +5,8 @@
     "https://soulsoilstation.co.jp/green-stem/",
     "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
     "https://soulsoilstation.co.jp/caudex-price/",
-    "https://soulsoilstation.co.jp/hydroculture-caudex/"
+    "https://soulsoilstation.co.jp/hydroculture-caudex/",
+    "https://soulsoilstation.co.jp/moon-watering/"
   ],
   "history": [
     {
@@ -679,6 +680,13 @@
       "url": "https://soulsoilstation.co.jp/hydroculture-caudex/",
       "title": "塊根植物はハイドロカルチャーで育つ？土なし栽培の限界と条件",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8f58a7c67aa91b3d517ebdd1b575764ba681f2d6/images/hydroculture-caudex.jpg"
+    },
+    {
+      "timestamp": "2026-10-29T02:14:58.129286",
+      "media_id": "17870360550662711",
+      "url": "https://soulsoilstation.co.jp/moon-watering/",
+      "title": "満月の日の水やりは効く？月の満ち欠けと植物栽培を科学検証",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8b2375665c69973085e1d4c76de89f86c4d1b71b/images/moon-watering.jpg"
     }
   ]
 }
