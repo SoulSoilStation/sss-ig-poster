@@ -6,7 +6,8 @@
     "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
     "https://soulsoilstation.co.jp/caudex-price/",
     "https://soulsoilstation.co.jp/hydroculture-caudex/",
-    "https://soulsoilstation.co.jp/moon-watering/"
+    "https://soulsoilstation.co.jp/moon-watering/",
+    "https://soulsoilstation.co.jp/commiphora-kataf/"
   ],
   "history": [
     {
@@ -687,6 +688,13 @@
       "url": "https://soulsoilstation.co.jp/moon-watering/",
       "title": "満月の日の水やりは効く？月の満ち欠けと植物栽培を科学検証",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8b2375665c69973085e1d4c76de89f86c4d1b71b/images/moon-watering.jpg"
+    },
+    {
+      "timestamp": "2026-10-30T02:28:52.398214",
+      "media_id": "18136865611637667",
+      "url": "https://soulsoilstation.co.jp/commiphora-kataf/",
+      "title": "コミフォラ・カタフの育て方｜種の選別・用土・発根管理を科学で解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/c761c95d957c13ae3e7326457a1827f65f9f5f74/images/commiphora-kataf.jpg"
     }
   ]
 }
