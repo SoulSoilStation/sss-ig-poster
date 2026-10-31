@@ -7,7 +7,8 @@
     "https://soulsoilstation.co.jp/caudex-price/",
     "https://soulsoilstation.co.jp/hydroculture-caudex/",
     "https://soulsoilstation.co.jp/moon-watering/",
-    "https://soulsoilstation.co.jp/commiphora-kataf/"
+    "https://soulsoilstation.co.jp/commiphora-kataf/",
+    "https://soulsoilstation.co.jp/rainwater-irrigation/"
   ],
   "history": [
     {
@@ -695,6 +696,13 @@
       "url": "https://soulsoilstation.co.jp/commiphora-kataf/",
       "title": "コミフォラ・カタフの育て方｜種の選別・用土・発根管理を科学で解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/c761c95d957c13ae3e7326457a1827f65f9f5f74/images/commiphora-kataf.jpg"
+    },
+    {
+      "timestamp": "2026-10-31T02:10:43.999817",
+      "media_id": "18377278327213954",
+      "url": "https://soulsoilstation.co.jp/rainwater-irrigation/",
+      "title": "雨水は水道水より植物に良い？成分・pH・雑菌・保存を比較",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/21bfc8b46d55ada6e3dd9eea780529bb8ec517ae/images/rainwater-irrigation.jpg"
     }
   ]
 }
