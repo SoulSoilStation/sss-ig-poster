@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/hydroculture-caudex/",
     "https://soulsoilstation.co.jp/moon-watering/",
     "https://soulsoilstation.co.jp/commiphora-kataf/",
-    "https://soulsoilstation.co.jp/rainwater-irrigation/"
+    "https://soulsoilstation.co.jp/rainwater-irrigation/",
+    "https://soulsoilstation.co.jp/tool-disinfection/"
   ],
   "history": [
     {
@@ -703,6 +704,13 @@
       "url": "https://soulsoilstation.co.jp/rainwater-irrigation/",
       "title": "雨水は水道水より植物に良い？成分・pH・雑菌・保存を比較",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/21bfc8b46d55ada6e3dd9eea780529bb8ec517ae/images/rainwater-irrigation.jpg"
+    },
+    {
+      "timestamp": "2026-11-02T02:14:44.643894",
+      "media_id": "17980807922918103",
+      "url": "https://soulsoilstation.co.jp/tool-disinfection/",
+      "title": "剪定ばさみの消毒は何が正解？｜アルコール・塩素・火炎を科学比較",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/1b23d31280759b53e95f977c55d4d376de337ba5/images/tool-disinfection.jpg"
     }
   ]
 }
