@@ -1,6 +1,7 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/moon-watering/"
+    "https://soulsoilstation.co.jp/moon-watering/",
+    "https://soulsoilstation.co.jp/clear-pots/"
   ],
   "history": [
     {
@@ -716,6 +717,13 @@
       "url": "https://soulsoilstation.co.jp/moon-watering/",
       "title": "満月の日の水やりは効く？月の満ち欠けと植物栽培を科学検証",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3e5253fbe1ed26e1ccd812627ecea719a190902b/images/moon-watering.jpg"
+    },
+    {
+      "timestamp": "2026-11-05T03:20:35.122524",
+      "media_id": "18091760945299102",
+      "url": "https://soulsoilstation.co.jp/clear-pots/",
+      "title": "透明鉢で根は見える？根への光・藻・温度上昇の科学｜塊根・多肉",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/341f3816eb8f3ab530621d160b2c451f9bc8aa2c/images/clear-pots.jpg"
     }
   ]
 }
