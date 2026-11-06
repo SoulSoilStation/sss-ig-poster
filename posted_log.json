@@ -1,7 +1,8 @@
 {
   "posted": [
     "https://soulsoilstation.co.jp/moon-watering/",
-    "https://soulsoilstation.co.jp/clear-pots/"
+    "https://soulsoilstation.co.jp/clear-pots/",
+    "https://soulsoilstation.co.jp/pseudolithos-flower-smell/"
   ],
   "history": [
     {
@@ -724,6 +725,13 @@
       "url": "https://soulsoilstation.co.jp/clear-pots/",
       "title": "透明鉢で根は見える？根への光・藻・温度上昇の科学｜塊根・多肉",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/341f3816eb8f3ab530621d160b2c451f9bc8aa2c/images/clear-pots.jpg"
+    },
+    {
+      "timestamp": "2026-11-06T03:18:30.652120",
+      "media_id": "18127050563313726",
+      "url": "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
+      "title": "プセウドリトスの花は臭い？実生株の開花で部屋中の臭いに驚いた体験記",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3a307bf35bba798f4de47e79a17e26032658baf7/images/pseudolithos-flower-smell.jpg"
     }
   ]
 }
