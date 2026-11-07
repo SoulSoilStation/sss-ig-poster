@@ -2,7 +2,8 @@
   "posted": [
     "https://soulsoilstation.co.jp/moon-watering/",
     "https://soulsoilstation.co.jp/clear-pots/",
-    "https://soulsoilstation.co.jp/pseudolithos-flower-smell/"
+    "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
+    "https://soulsoilstation.co.jp/pet-safety/"
   ],
   "history": [
     {
@@ -732,6 +733,13 @@
       "url": "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
       "title": "プセウドリトスの花は臭い？実生株の開花で部屋中の臭いに驚いた体験記",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/3a307bf35bba798f4de47e79a17e26032658baf7/images/pseudolithos-flower-smell.jpg"
+    },
+    {
+      "timestamp": "2026-11-07T02:38:26.197291",
+      "media_id": "17962290951079879",
+      "url": "https://soulsoilstation.co.jp/pet-safety/",
+      "title": "犬猫に危険な塊根植物・多肉植物｜樹液・トゲ・誤食の対策",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/658c12fd242b86d0bb9205dff07d4966494218e3/images/pet-safety.jpg"
     }
   ]
 }
