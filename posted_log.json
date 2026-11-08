@@ -3,7 +3,8 @@
     "https://soulsoilstation.co.jp/moon-watering/",
     "https://soulsoilstation.co.jp/clear-pots/",
     "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
-    "https://soulsoilstation.co.jp/pet-safety/"
+    "https://soulsoilstation.co.jp/pet-safety/",
+    "https://soulsoilstation.co.jp/green-stem/"
   ],
   "history": [
     {
@@ -740,6 +741,13 @@
       "url": "https://soulsoilstation.co.jp/pet-safety/",
       "title": "犬猫に危険な塊根植物・多肉植物｜樹液・トゲ・誤食の対策",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/658c12fd242b86d0bb9205dff07d4966494218e3/images/pet-safety.jpg"
+    },
+    {
+      "timestamp": "2026-11-08T02:12:19.458401",
+      "media_id": "18109708135954957",
+      "url": "https://soulsoilstation.co.jp/green-stem/",
+      "title": "パキポディウムは葉がなくても光合成する？緑色の幹が冬を越す仕組み",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/5db384b63137aabb119926d2f348e7a86bd61f56/images/green-stem.jpg"
     }
   ]
 }
