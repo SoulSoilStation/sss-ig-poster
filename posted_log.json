@@ -4,7 +4,8 @@
     "https://soulsoilstation.co.jp/clear-pots/",
     "https://soulsoilstation.co.jp/pseudolithos-flower-smell/",
     "https://soulsoilstation.co.jp/pet-safety/",
-    "https://soulsoilstation.co.jp/green-stem/"
+    "https://soulsoilstation.co.jp/green-stem/",
+    "https://soulsoilstation.co.jp/hydroculture-caudex/"
   ],
   "history": [
     {
@@ -748,6 +749,13 @@
       "url": "https://soulsoilstation.co.jp/green-stem/",
       "title": "パキポディウムは葉がなくても光合成する？緑色の幹が冬を越す仕組み",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/5db384b63137aabb119926d2f348e7a86bd61f56/images/green-stem.jpg"
+    },
+    {
+      "timestamp": "2026-11-09T02:30:25.446192",
+      "media_id": "17965693482214201",
+      "url": "https://soulsoilstation.co.jp/hydroculture-caudex/",
+      "title": "塊根植物はハイドロカルチャーで育つ？土なし栽培の限界と条件",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/f4e9d6381ed04261d4560fb330228994175fb773/images/hydroculture-caudex.jpg"
     }
   ]
 }
