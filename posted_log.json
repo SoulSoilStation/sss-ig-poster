@@ -7,7 +7,8 @@
     "https://soulsoilstation.co.jp/green-stem/",
     "https://soulsoilstation.co.jp/hydroculture-caudex/",
     "https://soulsoilstation.co.jp/commiphora-kataf/",
-    "https://soulsoilstation.co.jp/tool-disinfection/"
+    "https://soulsoilstation.co.jp/tool-disinfection/",
+    "https://soulsoilstation.co.jp/caudex-shape/"
   ],
   "history": [
     {
@@ -772,6 +773,13 @@
       "url": "https://soulsoilstation.co.jp/tool-disinfection/",
       "title": "剪定ばさみの消毒は何が正解？｜アルコール・塩素・火炎を科学比較",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/a10d522a0802b11df99a4da749851d90e1cad4ff/images/tool-disinfection.jpg"
+    },
+    {
+      "timestamp": "2026-11-12T03:41:36.847824",
+      "media_id": "18095074361191677",
+      "url": "https://soulsoilstation.co.jp/caudex-shape/",
+      "title": "塊根植物の形はいつ決まる？丸型・縦長・扁平を左右する遺伝と環境の科学",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/261e9910435e3fc60067cecb8d654c7b0feefca5/images/caudex-shape.jpg"
     }
   ]
 }
