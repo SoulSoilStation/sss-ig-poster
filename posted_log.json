@@ -8,7 +8,8 @@
     "https://soulsoilstation.co.jp/hydroculture-caudex/",
     "https://soulsoilstation.co.jp/commiphora-kataf/",
     "https://soulsoilstation.co.jp/tool-disinfection/",
-    "https://soulsoilstation.co.jp/caudex-shape/"
+    "https://soulsoilstation.co.jp/caudex-shape/",
+    "https://soulsoilstation.co.jp/crested-growth/"
   ],
   "history": [
     {
@@ -780,6 +781,13 @@
       "url": "https://soulsoilstation.co.jp/caudex-shape/",
       "title": "塊根植物の形はいつ決まる？丸型・縦長・扁平を左右する遺伝と環境の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/261e9910435e3fc60067cecb8d654c7b0feefca5/images/caudex-shape.jpg"
+    },
+    {
+      "timestamp": "2026-11-13T03:19:12.544951",
+      "media_id": "18146412334606132",
+      "url": "https://soulsoilstation.co.jp/crested-growth/",
+      "title": "綴化・石化・モンストとは？成長点の異変が生む珍奇な姿を科学解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/6bab211b0bad0f76cc056fbe129c4235d6173612/images/crested-growth.jpg"
     }
   ]
 }
