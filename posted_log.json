@@ -9,7 +9,8 @@
     "https://soulsoilstation.co.jp/commiphora-kataf/",
     "https://soulsoilstation.co.jp/tool-disinfection/",
     "https://soulsoilstation.co.jp/caudex-shape/",
-    "https://soulsoilstation.co.jp/crested-growth/"
+    "https://soulsoilstation.co.jp/crested-growth/",
+    "https://soulsoilstation.co.jp/euphorbia-latex/"
   ],
   "history": [
     {
@@ -788,6 +789,13 @@
       "url": "https://soulsoilstation.co.jp/crested-growth/",
       "title": "綴化・石化・モンストとは？成長点の異変が生む珍奇な姿を科学解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/6bab211b0bad0f76cc056fbe129c4235d6173612/images/crested-growth.jpg"
+    },
+    {
+      "timestamp": "2026-11-14T02:58:03.753620",
+      "media_id": "17915618781473202",
+      "url": "https://soulsoilstation.co.jp/euphorbia-latex/",
+      "title": "ユーフォルビアの白い樹液は危険？皮膚・目・ペットへの応急処置",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b1a4288154a32dc4a30a043384fe05c2a2ce785d/images/euphorbia-latex.jpg"
     }
   ]
 }
