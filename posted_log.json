@@ -10,7 +10,8 @@
     "https://soulsoilstation.co.jp/tool-disinfection/",
     "https://soulsoilstation.co.jp/caudex-shape/",
     "https://soulsoilstation.co.jp/crested-growth/",
-    "https://soulsoilstation.co.jp/euphorbia-latex/"
+    "https://soulsoilstation.co.jp/euphorbia-latex/",
+    "https://soulsoilstation.co.jp/caudex-lifespan/"
   ],
   "history": [
     {
@@ -796,6 +797,13 @@
       "url": "https://soulsoilstation.co.jp/euphorbia-latex/",
       "title": "ユーフォルビアの白い樹液は危険？皮膚・目・ペットへの応急処置",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b1a4288154a32dc4a30a043384fe05c2a2ce785d/images/euphorbia-latex.jpg"
+    },
+    {
+      "timestamp": "2026-11-15T02:29:13.367327",
+      "media_id": "18073281986606051",
+      "url": "https://soulsoilstation.co.jp/caudex-lifespan/",
+      "title": "塊根植物の寿命は何年？成長速度と古株の見分け方を科学解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/37307d92be29e67a379ac0ec6cfd7b564552b8e5/images/caudex-lifespan.jpg"
     }
   ]
 }
