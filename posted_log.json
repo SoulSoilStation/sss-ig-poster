@@ -1,6 +1,7 @@
 {
   "posted": [
-    "https://soulsoilstation.co.jp/caudex-shape/"
+    "https://soulsoilstation.co.jp/caudex-shape/",
+    "https://soulsoilstation.co.jp/seedling-winter/"
   ],
   "history": [
     {
@@ -807,6 +808,13 @@
       "url": "https://soulsoilstation.co.jp/caudex-shape/",
       "title": "塊根植物の形はいつ決まる？丸型・縦長・扁平を左右する遺伝と環境の科学",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b5307d8f948c690e2de60b9920176694fa551680/images/caudex-shape.jpg"
+    },
+    {
+      "timestamp": "2026-11-18T04:05:36.534165",
+      "media_id": "17966042100247430",
+      "url": "https://soulsoilstation.co.jp/seedling-winter/",
+      "title": "実生苗の冬越しは成株と同じでいい？夏型塊根の低温と乾燥を科学解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d6e77939080cf24c9fa544675591762f40dec024/images/seedling-winter.jpg"
     }
   ]
 }
