@@ -1,7 +1,8 @@
 {
   "posted": [
     "https://soulsoilstation.co.jp/caudex-shape/",
-    "https://soulsoilstation.co.jp/seedling-winter/"
+    "https://soulsoilstation.co.jp/seedling-winter/",
+    "https://soulsoilstation.co.jp/crested-growth/"
   ],
   "history": [
     {
@@ -815,6 +816,13 @@
       "url": "https://soulsoilstation.co.jp/seedling-winter/",
       "title": "実生苗の冬越しは成株と同じでいい？夏型塊根の低温と乾燥を科学解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d6e77939080cf24c9fa544675591762f40dec024/images/seedling-winter.jpg"
+    },
+    {
+      "timestamp": "2026-11-19T04:01:49.036240",
+      "media_id": "17973719625192627",
+      "url": "https://soulsoilstation.co.jp/crested-growth/",
+      "title": "綴化・石化・モンストとは？成長点の異変が生む珍奇な姿を科学解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8845b16be71fc409fae72935ea0d2b51737894e3/images/crested-growth.jpg"
     }
   ]
 }
