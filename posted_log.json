@@ -2,7 +2,8 @@
   "posted": [
     "https://soulsoilstation.co.jp/caudex-shape/",
     "https://soulsoilstation.co.jp/seedling-winter/",
-    "https://soulsoilstation.co.jp/crested-growth/"
+    "https://soulsoilstation.co.jp/crested-growth/",
+    "https://soulsoilstation.co.jp/euphorbia-latex/"
   ],
   "history": [
     {
@@ -823,6 +824,13 @@
       "url": "https://soulsoilstation.co.jp/crested-growth/",
       "title": "綴化・石化・モンストとは？成長点の異変が生む珍奇な姿を科学解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8845b16be71fc409fae72935ea0d2b51737894e3/images/crested-growth.jpg"
+    },
+    {
+      "timestamp": "2026-11-20T03:55:08.347897",
+      "media_id": "18285954571294866",
+      "url": "https://soulsoilstation.co.jp/euphorbia-latex/",
+      "title": "ユーフォルビアの白い樹液は危険？皮膚・目・ペットへの応急処置",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/dbe55d71bb6ee8172cb41d33210836be9dab25c9/images/euphorbia-latex.jpg"
     }
   ]
 }
