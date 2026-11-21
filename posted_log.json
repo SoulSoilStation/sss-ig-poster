@@ -3,7 +3,8 @@
     "https://soulsoilstation.co.jp/caudex-shape/",
     "https://soulsoilstation.co.jp/seedling-winter/",
     "https://soulsoilstation.co.jp/crested-growth/",
-    "https://soulsoilstation.co.jp/euphorbia-latex/"
+    "https://soulsoilstation.co.jp/euphorbia-latex/",
+    "https://soulsoilstation.co.jp/commiphora-kataf/"
   ],
   "history": [
     {
@@ -831,6 +832,13 @@
       "url": "https://soulsoilstation.co.jp/euphorbia-latex/",
       "title": "ユーフォルビアの白い樹液は危険？皮膚・目・ペットへの応急処置",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/dbe55d71bb6ee8172cb41d33210836be9dab25c9/images/euphorbia-latex.jpg"
+    },
+    {
+      "timestamp": "2026-11-21T03:51:32.948427",
+      "media_id": "18378367030244130",
+      "url": "https://soulsoilstation.co.jp/commiphora-kataf/",
+      "title": "コミフォラ・カタフの育て方｜種の選別・用土・発根管理を科学で解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/001809f73b6ad456429b16f7ee08c89196a7813f/images/commiphora-kataf.jpg"
     }
   ]
 }
