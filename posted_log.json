@@ -4,7 +4,8 @@
     "https://soulsoilstation.co.jp/seedling-winter/",
     "https://soulsoilstation.co.jp/crested-growth/",
     "https://soulsoilstation.co.jp/euphorbia-latex/",
-    "https://soulsoilstation.co.jp/commiphora-kataf/"
+    "https://soulsoilstation.co.jp/commiphora-kataf/",
+    "https://soulsoilstation.co.jp/tool-disinfection/"
   ],
   "history": [
     {
@@ -839,6 +840,13 @@
       "url": "https://soulsoilstation.co.jp/commiphora-kataf/",
       "title": "コミフォラ・カタフの育て方｜種の選別・用土・発根管理を科学で解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/001809f73b6ad456429b16f7ee08c89196a7813f/images/commiphora-kataf.jpg"
+    },
+    {
+      "timestamp": "2026-11-22T02:55:27.607870",
+      "media_id": "17934680448164367",
+      "url": "https://soulsoilstation.co.jp/tool-disinfection/",
+      "title": "剪定ばさみの消毒は何が正解？｜アルコール・塩素・火炎を科学比較",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/b0e83289e5520a7eedda0b293460efca9eeb267e/images/tool-disinfection.jpg"
     }
   ]
 }
