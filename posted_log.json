@@ -6,7 +6,8 @@
     "https://soulsoilstation.co.jp/euphorbia-latex/",
     "https://soulsoilstation.co.jp/commiphora-kataf/",
     "https://soulsoilstation.co.jp/tool-disinfection/",
-    "https://soulsoilstation.co.jp/caudex-lifespan/"
+    "https://soulsoilstation.co.jp/caudex-lifespan/",
+    "https://soulsoilstation.co.jp/indoor-timing/"
   ],
   "history": [
     {
@@ -855,6 +856,13 @@
       "url": "https://soulsoilstation.co.jp/caudex-lifespan/",
       "title": "塊根植物の寿命は何年？成長速度と古株の見分け方を科学解説",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/d3a24bf95d9ea4a8089aa98508328aeee2a5cea1/images/caudex-lifespan.jpg"
+    },
+    {
+      "timestamp": "2026-11-24T06:51:59.690178",
+      "media_id": "18182213746445690",
+      "url": "https://soulsoilstation.co.jp/indoor-timing/",
+      "title": "塊根植物を室内に取り込むタイミング｜最低気温10℃と株の状態で決める",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8a4584a9d5e1d1f61c91118f0dbac8d89cb93b81/images/indoor-timing.jpg"
     }
   ]
 }
