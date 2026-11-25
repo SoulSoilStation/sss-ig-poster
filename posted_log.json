@@ -7,7 +7,8 @@
     "https://soulsoilstation.co.jp/commiphora-kataf/",
     "https://soulsoilstation.co.jp/tool-disinfection/",
     "https://soulsoilstation.co.jp/caudex-lifespan/",
-    "https://soulsoilstation.co.jp/indoor-timing/"
+    "https://soulsoilstation.co.jp/indoor-timing/",
+    "https://soulsoilstation.co.jp/cold-acclimation/"
   ],
   "history": [
     {
@@ -863,6 +864,13 @@
       "url": "https://soulsoilstation.co.jp/indoor-timing/",
       "title": "塊根植物を室内に取り込むタイミング｜最低気温10℃と株の状態で決める",
       "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/8a4584a9d5e1d1f61c91118f0dbac8d89cb93b81/images/indoor-timing.jpg"
+    },
+    {
+      "timestamp": "2026-11-25T05:18:37.655133",
+      "media_id": "17917217127472989",
+      "url": "https://soulsoilstation.co.jp/cold-acclimation/",
+      "title": "同じ0℃でも枯れる株と耐える株｜寒さへの順化と凍結耐性を科学解説",
+      "image_url": "https://raw.githubusercontent.com/SoulSoilStation/sss-ig-poster/cfbcd7deb130cc05ae879796f6882e42c961ee44/images/cold-acclimation.jpg"
     }
   ]
 }
